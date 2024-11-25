@@ -20,6 +20,8 @@ Welcome to my Power BI Projects repository! 🚀 Explore a compilation of projec
 
 - HR DashBoard: Shows visualization of data like Total Employee, Attrition rate, Avg Age and ratings of work-life balance and job satisfaction. So it makes easy for HR to find out employee by department and gender.
 
+- Chicago Airbnb Analysis: This analysis examines the Chicago Airbnb market, focusing on factors such as house types, bedroom count, and neighborhood pricing trends. It identifies top neighborhoods, hosts, and explores the relationship between reviews, ratings, and pricing. The study offers key insights into market dynamics, including accommodation availability and host performance.
+
 ## How to Use:
 
 Feel free to interact with the Power BI dashboards, download PBIX files, and explore the data modeling strategies employed. Your feedback is appreciated, so don't hesitate to open issues or reach out with any questions.
